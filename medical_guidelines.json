@@ -1,0 +1,98 @@
+[
+  {
+    "content": "During active treatment for breast cancer, patients are advised to engage in light walking for 20–30 minutes, three times per week.",
+    "title": "ACSM Guidelines",
+    "metadata": {
+      "cancer_type": "breast",
+      "treatment_phase": "active"
+    }
+  },
+  {
+    "content": "Post-treatment patients should progressively increase to 150 minutes of moderate-intensity aerobic activity per week, including strength training twice weekly at 40–60% of 1RM.",
+    "title": "NCCN Survivorship Guidelines",
+    "metadata": {
+      "cancer_type": "general",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "For lung cancer survivors in post-treatment phase, start with low-impact exercises such as stationary biking and increase duration gradually, monitoring fatigue closely.",
+    "title": "ESMO Recommendations",
+    "metadata": {
+      "cancer_type": "lung",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "During chemotherapy, patients with prostate cancer are advised to perform supervised resistance training 2x/week to mitigate muscle loss.",
+    "title": "ASCO Guidelines",
+    "metadata": {
+      "cancer_type": "prostate",
+      "treatment_phase": "active"
+    }
+  },
+  {
+    "content": "Patients with leukemia in remission may engage in light yoga and balance training to rebuild neuromuscular coordination.",
+    "title": "Leukemia Foundation Exercise Protocol",
+    "metadata": {
+      "cancer_type": "leukemia",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "Fatigue-prone patients should adopt a conservative approach with flexibility exercises and short walks under supervision.",
+    "title": "Cancer Fatigue Management Protocol",
+    "metadata": {
+      "cancer_type": "general",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "Breast cancer patients with obesity are encouraged to integrate aquatic exercises and dietary guidance, with at least 90 minutes/week of activity.",
+    "title": "Obesity-Adapted ACSM Guidelines",
+    "metadata": {
+      "cancer_type": "breast",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "Patients recovering from surgery (any cancer) should follow a gradual mobilization protocol starting within 48h under physiotherapy guidance.",
+    "title": "ERAS Oncology Protocol",
+    "metadata": {
+      "cancer_type": "general",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "Older adults with endometrial cancer are recommended low-impact resistance band training to preserve bone density and reduce fall risk.",
+    "title": "Geriatric Oncology Exercise Plan",
+    "metadata": {
+      "cancer_type": "endometrial",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "During radiation treatment, light stationary cycling and deep breathing exercises are beneficial to maintain baseline endurance without overexertion.",
+    "title": "Oncology Physical Therapy Association Guidelines",
+    "metadata": {
+      "cancer_type": "general",
+      "treatment_phase": "active"
+    }
+  },
+  {
+    "content": "Obese prostate cancer survivors should combine strength training and brisk walking under dietician and physio supervision.",
+    "title": "Obesity + Prostate Combined Protocol",
+    "metadata": {
+      "cancer_type": "prostate",
+      "treatment_phase": "post"
+    }
+  },
+  {
+    "content": "Patients in long-term remission can participate in community sports adapted for survivors, such as walking clubs or aquatic groups.",
+    "title": "Community Re-engagement Guide",
+    "metadata": {
+      "cancer_type": "general",
+      "treatment_phase": "post"
+    }
+  }
+]
