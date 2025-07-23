@@ -116,7 +116,7 @@ Answer:"""
 prompt = PromptTemplate(template=template, input_variables=["context", "question"])
 
 
-question = "What physical activity should I recommend to a breast cancer patient during active treatment?"
+question = "What physical activity should I recommend to a breast cancer 59 years old patient during active treatment, with a moderate level activity?"
 
 
 inputs = {"context": context_text, "question": question}
